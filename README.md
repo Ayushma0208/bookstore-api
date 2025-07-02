@@ -4,7 +4,7 @@ Here's a complete and well-structured **README.md** file for your **Bookstore RE
 * Setup instructions
 * API usage (including test email)
 * JWT auth flow
-* Optional Swagger and testing info
+* Optional Swagger info
 
 ---
 
