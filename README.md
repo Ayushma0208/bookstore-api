@@ -20,7 +20,6 @@ A Node.js + Express RESTful API for managing a bookstore with:
 - Protected user-specific CRUD operations
 - Pagination and search
 - Swagger documentation
-- Unit tests with Jest
 
 ---
 
