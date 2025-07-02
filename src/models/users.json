@@ -1,0 +1,17 @@
+[
+  {
+    "id": "c14560e5-ae44-4cc4-a564-792d33682247",
+    "email": "Ayushma.tripathi@yopmail.com",
+    "password": "$2b$10$EheynL1SISNDV4RJTRJx1esePeb1crVv4sCtib.Lf7OeC40N4lYKy"
+  },
+  {
+    "id": "2861d134-d7cd-4ec3-b900-3d0179b486a9",
+    "email": "testUser@yopmail.com",
+    "password": "$2b$10$zYONg3xOYr/wAjVcy2oboOcsRzyfVSErrGKjrx/JRPE8kX7kIu/MK"
+  },
+  {
+    "id": "3c24302b-1a44-4288-be1b-433c92fb32f7",
+    "email": "finaltests@yopmail.com",
+    "password": "$2b$10$QFFUL8.52xfqiz345HZCOO5X0EwcALzgn3Y8sPWdsoyAuyQtJL.DC"
+  }
+]

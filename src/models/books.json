@@ -1,0 +1,34 @@
+[
+  {
+    "id": "b499c03d-e35a-4446-828e-2bf81c1461c4",
+    "title": "test book 1",
+    "author": "test user",
+    "genre": "sci-fi",
+    "publishedYear": "2013",
+    "userId": "2861d134-d7cd-4ec3-b900-3d0179b486a9"
+  },
+  {
+    "id": "0346cfb6-848a-4bf7-b55e-ef4fae3db10a",
+    "title": "ayushma book 1",
+    "author": "Ayushma Tripathi",
+    "genre": "Award Winning",
+    "publishedYear": "2020",
+    "userId": "c14560e5-ae44-4cc4-a564-792d33682247"
+  },
+  {
+    "id": "757a3aa4-29b2-41fa-a7f4-4e98fcca485e",
+    "title": "final destination 1",
+    "author": "Final Test",
+    "genre": "Award Winning",
+    "publishedYear": "2000",
+    "userId": "3c24302b-1a44-4288-be1b-433c92fb32f7"
+  },
+  {
+    "id": "c77588c8-f80d-4387-a8e8-b4570e0b05e9",
+    "title": "final destination 2",
+    "author": "Final Test",
+    "genre": "Award loosing",
+    "publishedYear": "2005",
+    "userId": "3c24302b-1a44-4288-be1b-433c92fb32f7"
+  }
+]
